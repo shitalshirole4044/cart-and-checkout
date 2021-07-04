@@ -1,0 +1,254 @@
+<html>
+
+<head>
+  <title></title>
+  <style>
+    .button {
+      background-color: lightblue;
+    }
+
+    .rectangle2 {
+      display: inline-block;
+      height: 40px;
+      width: 160px;
+      background-color: rgb(217, 236, 47);
+    }
+
+    .rectangle3 {
+      display: inline-block;
+      height: 40px;
+      width: 160px;
+      background-color: rgb(143, 132, 132);
+    }
+
+    .rectangle {
+      display: inline-block;
+      height: 40px;
+      width: 160px;
+      background-color: rgb(37, 223, 37);
+    }
+    
+
+    .rectangle4 {
+      display: inline-block;
+      height: 40px;
+      width: 160px;
+      background-color: rgb(143, 132, 132);
+    }
+
+    .rectangle5 {
+      display: inline-block;
+      height: 40px;
+      width: 160px;
+      background-color: rgb(143, 132, 132);
+    }
+
+    .rectangle6 {
+      display: inline-block;
+      height: 40px;
+      width: 160px;
+      background-color: rgb(143, 132, 132);
+    }
+
+    .box {
+      display: inline-block;
+      height: 40px;
+      width: 190px;
+      background-color: rgb(143, 132, 132);
+    }
+
+    .box2 {
+      display: inline-block;
+      height: 40px;
+      width: 190px;
+      background-color: rgb(143, 132, 132);
+    }
+
+    table {
+
+      width: 800px;
+      height: 300px;
+
+
+    }
+
+    .body {
+
+      vertical-align: middle;
+    }
+
+    .text {
+      vertical-align: 80px;
+
+    }
+
+    h3 {
+      color: white;
+      font-family: sans-serif;
+    }
+
+    .searchtext2 {
+
+      background-color: orange;
+      font-size: 40px;
+      color: white;
+      font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande',
+        'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    }
+
+    input {
+      height: 40px;
+      width: 400px;
+    }
+
+    .button {
+      height: 40px;
+      width: 70px;
+    }
+  </style>
+</head>
+
+<body style="vertical-align: middle"></body>
+
+
+<div class="searchtext2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🔯&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;Search Bar &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp; 🛒&nbsp;👤</div>
+<br>
+<br>
+
+<form>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+  <label>
+    <input type="search" name="searchbar" placeholder="Search Here">
+  </label>
+  <button class="button">Search</button>
+
+</form>
+<br>
+
+
+
+<table border="15" align="center">
+  <tr>
+    <td>
+      <h2>
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        &nbsp;&nbsp;&nbsp;&nbsp;Order Details
+      </h2>
+    </td>
+  </tr>
+
+
+
+  <tr>
+    <td>
+      <h2>
+        Order Id : 099573664 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Order Details | invoice
+      </h2>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2">
+      <br>
+      <div class="rectangle">
+        <center>
+          <h3>Ordered</h3>
+        </center>
+      </div>
+
+      <div class="rectangle2">
+        <center>
+          <h3>Packaged</h3>
+        </center>
+      </div>
+
+      <div class="rectangle3">
+        <center>
+          <h3>Delivered</h3>
+        </center>
+      </div>
+
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<div class="box">
+        <center>
+          <h3>Request cancellation</h3>
+        </center>
+      </div>
+
+      <br> <br>
+
+      <div class="rectangle4">
+        <center>
+          <h3>Return</h3>
+        </center>
+      </div>
+
+      <div class="rectangle5">
+        <center>
+          <h3>Collected</h3>
+        </center>
+      </div>
+
+      <div class="rectangle6">
+        <center>
+          <h3>Refund</h3>
+        </center>
+      </div>
+
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<div class="box2">
+        <center>
+          <h3>Return or replace</h3>
+        </center>
+      </div>
+
+    </td>
+  </tr>
+</table>
+<br>
+<table border="5" align="center" style="height: 10px;">
+  <tr>
+    <td>
+      Order id : 099573676 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+
+      Order Details | Invoice
+    </td>
+  </tr>
+</table>
+
+
+</body>
+
+</html>
