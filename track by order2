@@ -1,0 +1,118 @@
+<html>
+
+<head>
+    <style>
+        .searchtext {
+
+            background-color: orange;
+            font-size: 40px;
+            color: white;
+            font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande',
+                'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+        }
+
+        table {
+            width: 250px;
+
+        }
+
+        .a {
+            font-size: 100px;
+            margin-right: 20px;
+            font-display: 199px;
+
+        }
+
+        .options {
+            font-family: Arial, Helvetica, sans-serif;
+        }
+
+        .profile {
+            font-size: 25px;
+        }
+
+        .order {
+            font-size: 25px;
+        }
+
+        .signout {
+            font-size: 25px;
+        }
+
+        .tboptions {}
+
+
+
+        table {
+
+            width: 200px;
+            height: 400px;
+
+        }
+
+        .body {
+
+            vertical-align: middle;
+        }
+
+        .text {
+            vertical-align: 80px;
+
+        }
+
+        .welcome {
+            position: fixed;
+            top: 37%;
+            left: 43%;
+            font-size: 50px;
+            font-family: monospace;
+            color: red;
+        }
+
+        a {
+            color: black;
+        }
+    </style>
+
+</head>
+
+<body>
+
+    <div class="searchtext">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🔯&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        &nbsp;&nbsp;&nbsp;&nbsp;Search Bar &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        &nbsp; 🛒&nbsp;👤</div>
+    <br>
+    <div class="tboptions">
+        <table border="1">
+
+            <div class="welcome" align="center">
+                <h2>Welcome</h2>
+            </div>
+            <tr>
+                <th>
+                    <h0 class="a">
+                        Ⓐ
+                    </h0>
+                    <br><br><br><br><br>
+                    <button class="Profile">Profile</button>
+                    <br> <br>
+                    <button class="Order"><a href="C:\Users\Kavita\OneDrive\Desktop\table.html">Track Order</a></button>
+                    <br> <br>
+                    <button class="signout">Sign Out</button>
+
+
+                </th>
+            </tr>
+        </table>
+        
+
+
+
+</body>
+
+</html>
